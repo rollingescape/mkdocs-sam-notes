@@ -1,1 +1,1 @@
-# mkdocs-samandongong-notes
+# mkdocs-sama-ndongong-notes
